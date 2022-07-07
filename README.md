@@ -15,7 +15,7 @@ Crime incident reports are provided by Boston Police Department (BPD) to documen
 ## Target of Analysis
 - Determine most common crime (also providing Location & Time)
 - Determine most common crime which involves shooting (also providing Location & Time)
-- Create recomendations for the Boston Police
+- Create recomendations for the Boston Police based on findings.
 
 
 feel free to take a look / give any suggestions on how i can improve my coding further.
